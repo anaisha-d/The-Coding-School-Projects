@@ -1,1 +1,1 @@
-Asteroids Atari Game using Pygame 
+# Asteroids Atari Game
